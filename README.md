@@ -24,8 +24,6 @@ Semillero de Desarrollo con Rasberry Pi | Universidad EIA ![logo eia](https://gi
  
 
 ## Recursos
-* laracast | [https://laracasts.com](https://laracasts.com)
-* importar proyecto | [https://devmarketer.io](https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/)
-* fontawesome | [https://fontawesome.com/icons?d=gallery&q=plus&m=free](https://fontawesome.com/icons?d=gallery&q=plus&m=free)
-* boostrap theme | [https://startbootstrap.com/previews/sb-admin-2/](https://startbootstrap.com/previews/sb-admin-2/)
-* boostrap docs | [https://getbootstrap.com/docs](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* udemy | [https://www.udemy.com/](https://www.udemy.com/)
+* intructables | [http://www.instructables.com/](http://www.instructables.com/)
+* thingverse | [https://www.thingiverse.com/](https://www.thingiverse.com/)
