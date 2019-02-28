@@ -9,7 +9,7 @@ Semillero de Desarrollo con Rasberry Pi | Universidad EIA ![logo eia](https://gi
 ### para hacer la conexion :
 
 **En La RasberryPi :**
-1. Menu >>  Preferences >> Raspberry Pi Configuration >> Interfaces >> Enable SSH
+1. menu >>  preferences >> raspberry pi configuration >> interfaces >> enable SSH
 
 2. averiguar la ip de la rasberry pi
 ```
