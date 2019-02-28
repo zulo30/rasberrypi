@@ -9,13 +9,19 @@ Semillero de Desarrollo con Rasberry Pi | Universidad EIA ![logo eia](https://gi
 ### para hacer la conexion :
 
 **En La RasberryPi :**
-1. menu >>  preferences >> raspberry pi configuration >> interfaces >> enable SSH
+  1. menu >>  preferences >> raspberry pi configuration >> interfaces >> enable SSH
 
-2. averiguar la ip de la rasberry pi
-```
-hostname -I
-```
+  2. averiguar la ip de la rasberry pi
+  ```
+  hostname -I
+  ```
+**En Mac :**
 
+  1. en la terminal correr el siguiente commando cambiando el <<--ip address-->> con la ip de Rp
+  ```
+  ssh pi@<<--ip address-->>
+  ```
+ 
 
 ## Recursos
 * laracast | [https://laracasts.com](https://laracasts.com)
