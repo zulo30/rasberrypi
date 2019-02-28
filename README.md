@@ -1,6 +1,6 @@
 
 # Desarrollo Con Rasberry Pi : 
- Semillero de Rasberry Pi | Universidad EIA ![logo eia](https://github.com/EIA-University/LogosEIA/blob/master/assets/png/logo-eia-icon.png?raw=true)
+Semillero de Desarrollo con Rasberry Pi | Universidad EIA ![logo eia](https://github.com/EIA-University/LogosEIA/blob/master/assets/png/logo-eia-icon.png?raw=true)
 
 
 
